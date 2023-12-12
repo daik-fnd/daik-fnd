@@ -8,11 +8,14 @@ Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhem
 - Atualmente estou estudando 💻: Banco de dados.
 - Meu principal objetivo no momento 🎯: Conseguir um estágio na área de tecnologia.
 
-- Linkedin 🔗: https://www.linkedin.com/in/daik-fnd/
-
  ## Linguagens/Skills ✍️:
 - HTML/CSS
 - JavaScript
 - Node.Js
 - Java
 - Python
+
+## Redes sociais 👋:
+
+- Linkedin 🔗: https://www.linkedin.com/in/daik-fnd/
+- Email ✉️: daikfernando5@gmail.com
