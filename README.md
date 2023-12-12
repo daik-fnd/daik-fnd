@@ -1,6 +1,6 @@
-# Olá mundo!!! Seja bem-vindo(a) ao meu perfil! 🌎
+# Olá mundo! Seja bem-vindo(a) ao meu perfil! 🌎
 
-- ### Primeiramente, meu nome é Daik! 👋 <br>
+- ### Meu nome é Daik! <br>
 Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhemar Batista Heméritas** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninove**.
 
 - Linguagens favoritas ✨ : JavaScript e Java.
