@@ -9,3 +9,12 @@ Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhem
 - Meu principal objetivo no momento 🎯: Conseguir um estágio na área de tecnologia.
 
 - Linkedin 🔗: https://www.linkedin.com/in/daik-fnd/
+
+ ## Linguagens/Skills ✍️:
+- HTML/CSS
+- JavaScript
+- Node.Js
+- Java
+- Python
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={daik-fnd}&theme=blue-green)
