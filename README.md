@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo(a) ao meu mundo! 🌎
 
 - ### Meu nome é Daik! <br>
-Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhemar Batista Heméritas** e atualmente sou estudante do **Técnólogo de Análise e Desenvolvimento de Sistemas** na **Uninove**.
+Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhemar Batista Heméritas** e atualmente estou cursando o 2º semestre do **Técnólogo de Análise e Desenvolvimento de Sistemas** na **Uninove**.
 
 - Linguagens favoritas ✨ : JavaScript e Java.
 - Frameworks 📚 : Node.Js.
