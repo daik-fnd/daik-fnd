@@ -15,7 +15,7 @@ Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhem
 - Java
 - Python
 
-## Redes sociais 👋:
+## Redes sociais 🍕:
 
 - Linkedin 🔗: https://www.linkedin.com/in/daik-fnd/
 - Email ✉️: daikfernando5@gmail.com
