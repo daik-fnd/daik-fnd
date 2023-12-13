@@ -7,6 +7,7 @@ Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhem
 - Frameworks 📚 : Node.Js.
 - Atualmente estou estudando 💻: Banco de dados.
 - Meu principal objetivo no momento 🎯: Conseguir um estágio na área de tecnologia.
+- Jogo favorito ⚽: Fallout New Vegas.
 
  ## Linguagens/Skills ✍️:
 - HTML/CSS
