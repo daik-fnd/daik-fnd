@@ -15,6 +15,7 @@ Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhem
 - Node.Js
 - Java
 - Python
+- SQL
 
 ## Redes sociais 📢:
 
