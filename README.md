@@ -6,7 +6,7 @@ Sou desenvolvedor, formado como **técnico de informática pela ETEC Prof. Adhem
 - Linguagens mais utilizadas ✨ : JavaScript e Java.
 - Frameworks 📚 : Node.Js.
 - Atualmente estou estudando 💻: Banco de dados.
-- Meu principal objetivo no momento 🎯: Desenvolver novos projetos e enriquecer meu portifólio.
+- Meu principal objetivo no momento 🎯: Desenvolver novos projetos e enriquecer meu portfólio.
 - Jogo favorito ⚽: Fallout New Vegas.
 
  ## Linguagens/Skills ✍️:
